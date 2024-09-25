@@ -71,7 +71,7 @@ header h2 {
   width: 500px;
   line-height: 40px;
   font-size: 20px;
-  padding-right: 50px;
+  padding: 0 50px;
 }
 
 /****** Skill Styles ******/
